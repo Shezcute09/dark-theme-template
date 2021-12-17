@@ -1,0 +1,25 @@
+/* home section */
+
+#home {
+  width: auto;
+  height: 552px;
+  /* color: white; */
+  font-weight: bold;
+}
+
+/* button sub-sectiom */
+.carouselExampleInterval {
+  padding: 0 20%;
+}
+
+.carousel-control-next-icon,
+.carousel-control-prev-icon {
+  padding: 10%;
+}
+
+/* navbar section */
+.navbar {
+  font-size: 1.1rem;
+  padding: 1% 7%;
+}
+.nav-link:hover {color: cadetblue;text-decoration: none;}
